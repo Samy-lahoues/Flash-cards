@@ -1,1 +1,1 @@
-# Pizza menu section using REACT, Vite and typescript
+# Flash cards using REACT, Vite and typescript
